@@ -8,15 +8,6 @@ assignees: ''
 ---
 
 ---
-name: Demande de fonctionnalité
-about: Proposer une idée pour ce projet
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 Nom : 
 A propos : 
 ---
